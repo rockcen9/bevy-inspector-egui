@@ -4,4 +4,5 @@ members = ["crates/*"]
 
 [workspace.dependencies]
 egui = "0.33"
-bevy_egui = { git = "https://github.com/rockcen9/bevy_egui/", rev = "7fc6b90d248ac071f131809e8a9f7546a2c1b76b", default-features = false }
+bevy_egui = { git = "https://github.com/rockcen9/bevy_egui/", rev = "273fc54506858b1f8b2c74933b727a67322e8c35", default-features = false }
+

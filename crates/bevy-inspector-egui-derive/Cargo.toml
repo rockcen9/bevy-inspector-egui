@@ -17,7 +17,7 @@ quote = "1.0"
 proc-macro2 = "1.0"
 
 [dev-dependencies]
-bevy_ecs = { git = "https://github.com/bevyengine/bevy", rev = "1b3b01e94003cbcf652f842057ebab547b400b0e", default-features = false }
-bevy_math = { git = "https://github.com/bevyengine/bevy", rev = "1b3b01e94003cbcf652f842057ebab547b400b0e", default-features = false }
-bevy_reflect = { git = "https://github.com/bevyengine/bevy", rev = "1b3b01e94003cbcf652f842057ebab547b400b0e", default-features = false }
+bevy_ecs = { git = "https://github.com/bevyengine/bevy", rev = "d06aa47744dfa378f2e8a31cd7ff2d59c9afe4b9", default-features = false }
+bevy_math = { git = "https://github.com/bevyengine/bevy", rev = "d06aa47744dfa378f2e8a31cd7ff2d59c9afe4b9", default-features = false }
+bevy_reflect = { git = "https://github.com/bevyengine/bevy", rev = "d06aa47744dfa378f2e8a31cd7ff2d59c9afe4b9", default-features = false }
 bevy-inspector-egui = { path = "../bevy-inspector-egui" }
